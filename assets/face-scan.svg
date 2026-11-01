@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300" role="img" aria-labelledby="title desc">
+  <title id="title">Face scan illustration</title>
+  <desc id="desc">A minimal front-facing portrait inside a biometric scanning frame.</desc>
+  <defs>
+    <linearGradient id="beam" x1="0" x2="1"><stop offset="0" stop-color="#9da88f" stop-opacity="0"/><stop offset=".5" stop-color="#78866e" stop-opacity=".58"/><stop offset="1" stop-color="#9da88f" stop-opacity="0"/></linearGradient>
+  </defs>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M95 50h-23v34M325 50h23v34M72 216v34h23M348 216v34h-23" stroke="#87947d" stroke-width="2"/>
+    <path d="M210 42c-49 0-82 36-82 90v32c0 53 35 91 82 91s82-38 82-91v-32c0-54-33-90-82-90Z" fill="#d9ddd0" stroke="#74816c" stroke-width="2.4"/>
+    <path d="M147 130c9-42 35-65 63-65s54 23 63 65" stroke="#9ba58f" stroke-width="1.6"/>
+    <path d="M164 145c10-8 22-8 32 0M224 145c10-8 22-8 32 0" stroke="#596b57" stroke-width="3"/>
+    <path d="M210 146v34l-10 9h20" stroke="#87947d" stroke-width="2"/>
+    <path d="M185 208c16 12 34 12 50 0" stroke="#ad765c" stroke-width="2.5"/>
+    <path d="M145 111h-18m166 0h-18M145 193h-18m166 0h-18" stroke="#9ba58f" stroke-width="1.5"/>
+    <path d="M110 100h200M110 200h200" stroke="#b5bcaa" stroke-width="1" stroke-dasharray="3 7"/>
+    <path d="M100 150h220" stroke="url(#beam)" stroke-width="6"/>
+    <path d="M210 25v17m0 211v17M55 150h17m276 0h17" stroke="#ad765c" stroke-width="2"/>
+  </g>
+  <g fill="#6f7e68"><circle cx="164" cy="145" r="3"/><circle cx="256" cy="145" r="3"/></g>
+  <g fill="#ad765c"><circle cx="210" cy="25" r="3"/><circle cx="210" cy="270" r="3"/></g>
+</svg>
